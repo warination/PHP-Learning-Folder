@@ -20,7 +20,7 @@ if(isset($_GET['name'])){
     <form method="GET" action="get-post.php">
         <div>
 
-            <label for="">Mame</label>
+            <label for="">Name</label>
             <input type="text" name="name" id="">
         </div>
 
